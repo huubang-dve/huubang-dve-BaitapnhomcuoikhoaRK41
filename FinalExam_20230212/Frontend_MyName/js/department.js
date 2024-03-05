@@ -45,6 +45,10 @@ function viewAccount() {
   });
 }
 
+function viewLogin() {
+  $(".main").load("/Login/Login_form.html", function () {});
+}
+
 // ẩn modal tạo mới department
 function hideAddNewModal() {
   $("#add-new-department").modal("hide");

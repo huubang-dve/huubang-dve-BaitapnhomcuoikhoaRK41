@@ -18,11 +18,17 @@
   padding: 15px;
   text-decoration: none;
   font-size: 17px;
+  cursor: pointer;
 }
 
 #navbar a:hover {
   background-color: #ddd;
   color: black;
+}
+
+#navbar .right-nav {
+  position: absolute;
+  right: 0;
 }
 
 /* my style  css */
