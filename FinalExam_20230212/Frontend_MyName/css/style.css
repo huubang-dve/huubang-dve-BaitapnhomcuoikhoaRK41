@@ -27,10 +27,6 @@
 
 /* my style  css */
 
-.main {
-  padding-top: 50px;
-}
-
 .footer {
   height: 50px;
   background-color: #333;
@@ -61,7 +57,6 @@
   align-items: center;
   text-align: center;
   position: relative;
-  margin-bottom: 20px;
   z-index: -2;
 }
 
